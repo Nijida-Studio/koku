@@ -1,5 +1,5 @@
 ---
-layout: nijida-home
+layout: nijida-page
 title: "Koku"
 excerpt: "Ein ruhiges, modernes und leichtgewichtiges Open-Source-Projekt von Nijida Studio."
 permalink: /
