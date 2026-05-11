@@ -1,0 +1,32 @@
+title: "Koku"
+description: "Ein ruhiges Open-Source-Projekt von Nijida Studio."
+
+url: "https://www.nijida.de"
+baseurl: "/koku"
+
+remote_theme: Nijida-Studio/nijida-studio.github.io@pages-theme
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+
+locale: "de-DE"
+
+exclude:
+  - AGENTS.md
+  - README.md
+  - vendor/
+  - .bundle/
+
+footer:
+  links:
+    - title: "GitHub"
+      url: https://github.com/Nijida-Studio/koku
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: nijida-page
