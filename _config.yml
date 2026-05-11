@@ -4,7 +4,7 @@ description: "Ein ruhiges Open-Source-Projekt von Nijida Studio."
 url: "https://www.nijida.de"
 baseurl: "/koku"
 
-remote_theme: Nijida-Studio/nijida-studio.github.io@pages-theme
+remote_theme: Nijida-Studio/nijida-studio.github.io@pages-theme@pages-theme
 
 plugins:
   - jekyll-remote-theme
