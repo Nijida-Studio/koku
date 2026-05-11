@@ -17,6 +17,8 @@ locale: "de-DE"
 exclude:
   - AGENTS.md
   - README.md
+  - Gemfile
+  - Gemfile.lock
   - vendor/
   - .bundle/
 

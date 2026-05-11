@@ -5,9 +5,7 @@ _site/
 .jekyll-metadata
 
 # Bundler
-vendor/bundle/
-vendor/cache/
-vendor/ruby/
+vendor/
 .bundle/
 
 # OS and editor files
@@ -17,9 +15,6 @@ vendor/ruby/
 .\#*
 *.swp
 *.swo
-
-# Local accidental temp folders
-private/
 
 # Local accidental temp folders
 private/
