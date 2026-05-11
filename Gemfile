@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll"
+gem "jekyll", "~> 4.3.4"
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
 gem "jekyll-feed"
